@@ -1,0 +1,21 @@
+_id: req_971df27937fe42bd900834f5f0be9ff3
+type: Request
+parentId: fld_c3bab65045ac445cb9b4068a97bf832d
+modified: 1687372412691
+created: 1687372395704
+url: ""
+name: teste 2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687372212272
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
